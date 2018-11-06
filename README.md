@@ -9,7 +9,8 @@ We will give a hands-on session of web app penetration testing on OWASP Top 10 2
 Complete agenda can be found [here](https://allthingsopen.org/schedule/)
 
 ### Speaker
-[Viral Parmar, Mozilla](https://allthingsopen.org/speakers/viral-parmar/)
+[Viral Parmar] (https://allthingsopen.org/speakers/viral-parmar/)
+
 Contact me 
 Facebook [Follow Me](https://www.facebook.com/viralparmarhack/)
-(https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40@viralparmarhack)](https://twitter.com/viralparmarhack)
+<a href="https://twitter.com/viralparmarhack?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @viralparmarhack</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
