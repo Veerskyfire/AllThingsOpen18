@@ -11,9 +11,9 @@ Complete agenda can be found [here](https://allthingsopen.org/schedule/)
 ### Speaker
 [Viral Parmar] (https://allthingsopen.org/speakers/viral-parmar/)
 
-Contact me 
+Contact me on
 Facebook [Follow Me](https://www.facebook.com/viralparmarhack/)
 Twitter [Follow Me](https://twitter.com/viralparmarhack)
 Linkedin [Follow Me](https://www.linkedin.com/in/viral-parmar-8402a04a/)
 Telegram [Message Me](https://telegram.me/viralhack)
-Website [Visit](htpps://www.viralparmarhacker.com)
+Website [Visit](https://www.viralparmarhacker.com)
