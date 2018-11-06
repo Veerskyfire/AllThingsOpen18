@@ -14,4 +14,4 @@ Complete agenda can be found [here](https://allthingsopen.org/schedule/)
 Contact me 
 Facebook [Follow Me](https://www.facebook.com/viralparmarhack/)
 
-[![Follow Viral at https://twitter.com/viralparmarhack](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40Viral Parmar)](https://twitter.com/viralparmarhack)
+[![Follow Viral at https://twitter.com/viralparmarhack] (https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40Viral Parmar)](https://twitter.com/viralparmarhack)
